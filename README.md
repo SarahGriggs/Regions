@@ -1,2 +1,2 @@
 # Regions
-Geo regions to 3d print
+Geo regions with associated data inputs to 3d print
